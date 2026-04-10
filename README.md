@@ -31,7 +31,7 @@ Celem było stworzenie nowoczesnej i przejrzystej wizytówki online, która dobr
 - podstawowe SEO
 
 ### Podgląd / link
-[Zobacz projekt]([https://twoj-link.pl](https://www.rjz-studio-obrazu-55.pl))
+[Zobacz projekt](www.rjz-studio-obrazu-55.pl)
 
 ### Screenshot
 
